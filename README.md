@@ -27,8 +27,3 @@ will benefit from the need to save precious human lives.
 6) Enter those details in "Accident Detection-Video.ipynb" program file.
 7) Also enter the phone number which you have to send the SMS.
 8) Now, Run the code.
-
-## Poject Team Members:
-1) Sai Kishore S
-2) Vazhmuni V
-3) Vinoth S
